@@ -1,4 +1,4 @@
-
+//Question 1. Write a java program to find the sum of the 2nd and 3rd largest numbers in an array int[] values = {10, 51, 53, 39, 47, 44, 21};
 public class Sumof2nd3rdlarg 
 {
 	public static void main(String[] args)
